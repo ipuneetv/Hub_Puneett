@@ -1,5 +1,5 @@
 - 👋 Hi, I’m puneett
-- 👀 I’m interested in ... software engineering
+- 👀 I’m interested in ... software testing
 - 🌱 I’m currently learning ... coding & automation
 - 💞️ I’m looking to collaborate on learning automation.
 - 📫 How to reach me ...IM me
