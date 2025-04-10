@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ipuneetv
 - 👀 I’m interested in ... software engineering
 - 🌱 I’m currently learning ... coding & automation
-- 💞️ I’m looking to collaborate on website development
+- 💞️ I’m looking to collaborate on learning automation.
 - 📫 How to reach me ...IM me
 
 <!---
