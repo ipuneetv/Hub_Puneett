@@ -1,4 +1,3 @@
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 # Puneett Kr Verma
 ## Software Professional | 🚀 Telecom & IT Expert 📶 |🎯Certified Coach | PMP | ITIL | PSM | ISTQB | 📜CI
 Location : Pune, Maharashtra, India
