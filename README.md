@@ -6,6 +6,7 @@ Location : Pune, Maharashtra, India
 > Software Testing Delivery Management
 > Digital Project Management
 > Agile Methodology (Scrum Framework)
+
 🌟Experience in :
 > International Roaming Testing (IREG, TADIG & Commercial Launches)
 
