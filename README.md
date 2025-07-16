@@ -12,6 +12,5 @@ Location : Pune, Maharashtra, India
 🛠️ Tech Tools
 > Version Control System - [GIT Protocol]
 > Language - [Java]
-> Application - CPQ - Salesforce Salescloud <--> Oracle Big Machines
 
 **Software, Hell Yeah!**
