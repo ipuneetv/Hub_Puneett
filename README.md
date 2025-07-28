@@ -1,5 +1,5 @@
 # Puneett Kr Verma
-## Software Professional | 🚀 Telecom & IT Expert 📶
+## Software Professional 📶
 Location : Pune, Maharashtra, India
 
 🔍 Specializing in :
